@@ -42,3 +42,43 @@ https://github.com/promoscow/coroutines-concept-server-web
 
 Server WebFlux (Netty):
 https://github.com/promoscow/coroutines-concept-server-webflux
+
+### Grafana snapshots:
+
+#### Spring MVC
+
+Server JVM: https://snapshots.raintank.io/dashboard/snapshot/ihGrZ1AYdTagGGpROKfDB9vQVIQzn6jc
+
+IO JVM: https://snapshots.raintank.io/dashboard/snapshot/kIXE79NeToGFNuUFHeNBriT0UaYgkQsw
+
+Server threads: https://snapshots.raintank.io/dashboard/snapshot/Mi225WOqkiVrOjCE872eLbTEk1iIJdur
+
+#### Spring WebFlux
+
+Server JVM: https://snapshots.raintank.io/dashboard/snapshot/GzW8TUAOEhda6n2GeR9BWkU5HKgOxkIy
+
+IO JVM: https://snapshots.raintank.io/dashboard/snapshot/0KUE8zPnLoofg0XOJ0pYWvigu7h9Lp8p
+
+Server threads: https://snapshots.raintank.io/dashboard/snapshot/ykrpDaHlldJOWsRq8P9WNnnxuQY3hpe8
+
+#### Spring WebFlux + blocking I/O
+
+Server JVM: https://snapshots.raintank.io/dashboard/snapshot/ljux6wfjUnGuygasrTbrDGhzLIEwj5ln
+
+Server threads: https://snapshots.raintank.io/dashboard/snapshot/wElTFs3DJFSvySP6g1Bf2UYoevaPl93w
+
+#### Spring MVC + Virtual Threads
+
+Server JVM: https://snapshots.raintank.io/dashboard/snapshot/mysdujhLcpHI4n8dpOWdXaxBLGRAbJF0
+
+IO JVM: https://snapshots.raintank.io/dashboard/snapshot/m9flNaR6IZ4qvzD8VtaAyvebAL7k83Ja
+
+Server threads: https://snapshots.raintank.io/dashboard/snapshot/WpaFiIdntM52arOWa96GC6DNslrYEMXd
+
+#### Spring WebFlux + Coroutines
+
+Server JVM: https://snapshots.raintank.io/dashboard/snapshot/r0QNhfXyjk0xBzGllzVlQWEaazvAZijG
+
+IO JVM: https://snapshots.raintank.io/dashboard/snapshot/jUt3PT3OxxNbSBnP7pirH0gsAsbfLevi
+
+Server threads: https://snapshots.raintank.io/dashboard/snapshot/SnPrrbSDmoFKpxPZB8loVGx4F5Zy4MKd
